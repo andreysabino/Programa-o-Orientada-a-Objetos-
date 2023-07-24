@@ -8,7 +8,9 @@ public class Area {
 
         System.out.println("Digite o valor do lado do quadrado:");
         ValorUm = entrada.nextInt();
-
+        
+        entrada.close();
+        
         System.out.printf("O valor da área é : " + ValorUm * ValorUm + "\n");
 
         

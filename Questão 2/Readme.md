@@ -1,0 +1,1 @@
+#### 2 - Escreva um programa que calcule a soma e a média aritmética de 3 números. Os valores reais serão informados pelo usuário.
